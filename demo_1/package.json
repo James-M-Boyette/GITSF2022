@@ -1,0 +1,9 @@
+{
+  "name": "demo_1",
+  "version": "1.0.0",
+  "description": "simple html",
+  "main": "index.html",
+  "repository": "_",
+  "author": "James Boyette",
+  "license": "MIT"
+}
